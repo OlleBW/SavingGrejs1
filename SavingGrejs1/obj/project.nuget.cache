@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcoe2dOMJQRUZ2o2GybPBS7CI7vnRbyI6dYzpoqXCGFpQrm2YzZt7SZxbdIBbkrr8Z2+p6fuBgADtq7llJTldQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\olle.brinkwennberg\\Desktop\\Prog2\\SavingGrejs1\\SavingGrejs1\\SavingGrejs1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olle.brinkwennberg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
